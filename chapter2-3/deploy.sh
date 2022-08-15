@@ -1,5 +1,5 @@
 #!/bin/bash
-. checkenv.sh
+. ./checkenv.sh
 
 SERVICES=(resources crawler-service analysis-service ui-service)
 
